@@ -6,6 +6,7 @@
 	<br>
 </div>
 
+❮img src="https://progress-bar.dev/<thepercentage>" ❯
 
 	UI
 	![10%](https://progress-bar.dev/50)
